@@ -3,16 +3,24 @@
 <format>4.33</format>
 <program version="6.4.0" os="mac" />
 
-<postscript_name>Typeface</postscript_name>
-<name>Typeface</name>
-<subfamily>Regular</subfamily>
-<bold>false</bold>
+<postscript_name>Tsing</postscript_name>
+<name>Tsing</name>
+<subfamily>Bold</subfamily>
+<bold>true</bold>
 <italic>false</italic>
 <mono>false</mono>
-<full_name>Typeface</full_name>
-<unique_identifier>Typeface</unique_identifier>
+<full_name>Tsing</full_name>
+<unique_identifier>Tsing</unique_identifier>
 <version>Version 1.0</version>
-<description></description>
+<description>Consistently-sized block-combination font designed by jiangxue.org for Fringe Science Research And Support.
+
+
+
+
+
+
+
+</description>
 <copyright>SIL Open Font License</copyright>
 <license>SIL Open Font License</license>
 <license_url>http://scripts.sil.org/OFL</license_url>
@@ -20,11 +28,11 @@
 <italic_angle>0</italic_angle>
 <units_per_em>1024</units_per_em>
 <trademark></trademark>
-<manufacturer></manufacturer>
-<designer></designer>
-<vendor_url></vendor_url>
+<manufacturer>Jiangxue academy</manufacturer>
+<designer>iepn</designer>
+<vendor_url>https://jiangxue.org/</vendor_url>
 <vendor_id>Bird</vendor_id>
-<designer_url></designer_url>
+<designer_url>https://member.rhyme.jiangxue.org/</designer_url>
 <underline_position>-10</underline_position>
 <underline_thickness>3.5</underline_thickness>
 <open_engraving>false</open_engraving>
