@@ -1,9 +1,4 @@
-<img alt="logo" style="float: right;right: 0px" src="https://github.com/jsrac/qionglou/assets/57232813/f5ddfe01-ae3d-4b63-b259-d0d161bed7b2" width="150" div align=right>
-
-<h2>Thank use</h2>
-
-### Introduce
-![Group 26](https://github.com/iepn/Tsing/assets/57232813/0148c13e-51fd-4230-92fe-3b89318c55c6)
+![Group 26](https://github.com/iepn/Tsing/assets/57232813/7b483d5b-9d60-4df8-b86e-341719602513)
 
 This is a relatively monospaced font composed of equal-sized squares. The letters are evolved from 9x9 squares, with a space of 91x61; the numbers are 11x11, with a space of 61x61, creating a fascinating visual experience for the font.
 
