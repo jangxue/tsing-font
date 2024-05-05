@@ -2,11 +2,6 @@
 
 <h2>Thank use</h2>
 
-> [!NOTE]
-> <b>针对设计的定义有很多，我们提供了字体源文件和设计稿。这意味着您可以将自认为不好的地方，重新修改设计并合并至此。</b>
->
-> There are many definitions of aesthetics. However, we provide the birdfont source files, which means you can make modifications where you see fit and open a pull request.
-
 ### Introduce
 ![Group 26](https://github.com/iepn/Tsing/assets/57232813/0148c13e-51fd-4230-92fe-3b89318c55c6)
 
