@@ -3,14 +3,14 @@
 <format>4.33</format>
 <program version="6.4.0" os="mac" />
 
-<postscript_name>Tsing</postscript_name>
-<name>Tsing</name>
+<postscript_name>TSING</postscript_name>
+<name>TSING</name>
 <subfamily>Bold</subfamily>
 <bold>true</bold>
 <italic>false</italic>
 <mono>false</mono>
-<full_name>Tsing</full_name>
-<unique_identifier>Tsing</unique_identifier>
+<full_name>TSING</full_name>
+<unique_identifier>TSING</unique_identifier>
 <version>Version 1.0</version>
 <description>Consistently-sized block-combination font designed by jiangxue.org for Fringe Science Research And Support.
 
@@ -187,8 +187,12 @@
 
 <collection unicode="U+2a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
-	<glyph id="0" left="-28" right="28" zero_width="false">
+	<glyph id="0" left="-28" right="-3" zero_width="false">
 		<layer name="Layer" visible="true">
+			<path data="B -20.97619,28.92267 M -16.08729,32.38803 M -16.08729,29.41767 M -20.97619,25.95236 C -20.97619,26.94246 -20.97619,27.93256 -20.97619,28.92267" />
+			<path data="B -20.97619,35.9524 M -16.08729,32.48705 M -16.08729,29.51669 M -20.97619,32.98205 C -20.97619,33.97217 -20.97619,34.96229 -20.97619,35.9524" />
+			<path data="B -9.97619,25.95236 M -14.86509,29.41767 M -14.86509,32.38803 M -9.97619,28.92267 C -9.97619,27.93256 -9.97619,26.94246 -9.97619,25.95236" />
+			<path data="B -9.97619,32.98205 M -14.86509,29.51669 M -14.86509,32.48705 M -9.97619,35.9524 C -9.97619,34.96229 -9.97619,33.97217 -9.97619,32.98205" />
 		</layer>
 	</glyph>
 </collection>
@@ -780,11 +784,30 @@
 	</glyph>
 </collection>
 
+<collection unicode="U+5e" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="15.95238" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -2.81348,36 M 9.18652,19.4305 M 3.04752,19.4305 M -8.95248,36 C -6.90615,36 -4.85981,36 -2.81348,36" />
+			<path data="B -20.95244,19.4304 M -8.95248,35.99995 M -2.81348,35.99995 M -14.81348,19.4304 C -16.8598,19.4304 -18.90612,19.4304 -20.95244,19.4304" />
+		</layer>
+	</glyph>
+</collection>
+
 <collection unicode="U+5f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="38.95238" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="B 32.01554,-0.008 M -20.98446,-0.008 M -20.98446,4.992 M 32.01554,4.992 C 32.01554,3.32534 32.01554,1.65867 32.01554,-0.008" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+60" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-5.95238" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15.94142,35.98634 M -12.94142,26.98634 M -17.94142,26.98634 M -20.94142,35.98634 C -19.27475,35.98634 -17.60809,35.98634 -15.94142,35.98634" />
 		</layer>
 	</glyph>
 </collection>
