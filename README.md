@@ -1,4 +1,4 @@
-![image](https://github.com/iepn/tsing-font/assets/57232813/476499b5-0315-4d20-b603-4074224074e3)
+![Slide 16_9 - 7](https://github.com/iepn/tsing-font/assets/57232813/a1963f5d-eaae-4daf-ac26-7a2d9a799d08)
 
 This is a relatively monospaced font composed of equal-sized squares. The letters are evolved from 9x9 squares, with a space of 91x61; the numbers are 11x11, with a space of 61x61, creating a fascinating visual experience for the font.
 

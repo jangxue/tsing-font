@@ -7,43 +7,108 @@
     body {
       padding: 0;
       margin: 0;
-      padding: 5vw;
+      padding-left: 3%;
+      padding-right: 3%;
       padding-bottom: 0;
+    }
+    @font-face {
+      font-family: "Tsing";
+      src: url("TSING.ttf");
     }
     p {
       padding: 0;
       margin: 0;
     }
-    .home {
-      height: 100vh;
-      display: flex;
-      align-content: space-between;
-      align-items: center;
-      margin-top: -10vh;
-    }
     .bottom {
-      height: 100vh;
       display: flex;
       align-items: center;
     }
     img {
-        width: 100%;
+      width: 100%;
+    }
+    /* title */
+    :root {
+      --pointerColor: #000;
+    }
+    a {
+      text-decoration: none;
+    }
+    .header {
+      display: block;
+      position: absolute;
+      padding-top: 6vh;
+    }
+    .home {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+    #title {
+      width: fit-content;
+      font-family: "Tsing";
+      font-size: 9vw;
+      color: #000;
+      margin-top: 11vh;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        transparent calc(100% - 10px),
+        var(--pointerColor) calc(100% - 10px),
+        var(--pointerColor)
+      );
+      background-size: 100% 70%;
+      background-position: 0 5px;
+      background-repeat: no-repeat;
+      animation: colorChange 1s linear infinite;
+      padding-right: 9px;
+    }
+
+    @keyframes colorChange {
+      0%,
+      50% {
+        --pointerColor: #0047ff;
+      }
+      50%,
+      100% {
+        --pointerColor: transparent;
+      }
+    }
+    .copy {
+      font-family: tsing;
+      color: #555555;
     }
   </style>
   <body>
     <a href="https://github.com/iepn/tsing-font">
       <div class="header">
         <img
-          style="width: 7vh;"
+          style="width: 7vh"
           alt="Static Badge"
           src="https://img.shields.io/github/stars/iepn/tsing-font"
         />
       </div>
+
       <div class="home">
+        <p id="title"></p>
         <img src="./img/home.svg" alt="home" />
-      </div>
-      <div class="bottom">
-        <img src="./img/about.svg" alt="about" />
+        <script>
+          const text = "SECURITY TEAM IS #COOL!!!!!";
+
+          const contentElement = document.getElementById("title");
+          let index = 0;
+
+          function addNextCharacter() {
+            if (index < text.length) {
+              contentElement.textContent += text[index];
+              index++;
+              setTimeout(addNextCharacter, Math.random() * 150 + 30);
+            }
+          }
+
+          addNextCharacter();
+        </script>
+        <p class="copy">license \ Copyright (c) 2024 Jiangxue.org & Iepn,</p>
       </div>
     </a>
   </body>
