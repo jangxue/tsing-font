@@ -3,8 +3,8 @@
 <format>4.33</format>
 <program version="6.4.0" os="mac" />
 
-<postscript_name>TSING</postscript_name>
-<name>TSING</name>
+<postscript_name>Tsing</postscript_name>
+<name>Tsing</name>
 <subfamily>Bold</subfamily>
 <bold>true</bold>
 <italic>false</italic>
@@ -41,7 +41,7 @@
 
 <horizontal>
 	<top_limit>36</top_limit>
-	<top_position>35.96226</top_position>
+	<top_position>35.97704</top_position>
 	<x-height>35.97768</x-height>
 	<base_line>0</base_line>
 	<bottom_position>-20</bottom_position>
@@ -55,8 +55,8 @@
 
 <background scale="1" />
 
-<base_filename>Typeface</base_filename>
-<base_filename_mac>Typeface Mac</base_filename_mac>
+<base_filename>Tsing</base_filename>
+<base_filename_mac>Tsing-source Mac</base_filename_mac>
 <export_ttf_font>true</export_ttf_font>
 <export_otf_font>true</export_otf_font>
 <export_eot_font>false</export_eot_font>
@@ -94,8 +94,8 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="-3" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B -20.95238,36.44719 M -15.95238,36.44719 M -15.95238,28.44719 M -20.95238,28.44719 M -20.95238,36.44719" />
-			<path data="B -14.95238,36.44719 M -9.95238,36.44719 M -9.95238,28.44719 M -14.95238,28.44719 M -14.95238,36.44719" />
+			<path data="B -20.95238,35.91889 M -15.95238,35.91889 M -15.95238,27.91889 M -20.95238,27.91889 M -20.95238,35.91889" />
+			<path data="B -14.95238,35.91889 M -9.95238,35.91889 M -9.95238,27.91889 M -14.95238,27.91889 M -14.95238,35.91889" />
 		</layer>
 	</glyph>
 </collection>
@@ -148,7 +148,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="-9" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B -20.9566,36.42366 M -15.9566,36.42366 M -15.9566,28.42366 M -20.9566,28.42366 M -20.9566,36.42366" />
+			<path data="B -20.9566,35.94819 M -15.9566,35.94819 M -15.9566,27.94819 M -20.9566,27.94819 M -20.9566,35.94819" />
 		</layer>
 	</glyph>
 </collection>
@@ -194,7 +194,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="-6.53836" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B -13.48252,6.00045 M -15.98252,0.00045 M -20.98252,0.00045 M -18.48252,6.00045 C -16.81586,6.00045 -15.14919,6.00045 -13.48252,6.00045" />
+			<path data="B -13.48252,6.00045 M -15.98252,0.00045 M -20.98252,0.00045 C -20.14919,2.00045 -18.87358,3.84151 -18.48252,6.00045 C -16.81586,6.00045 -15.14919,6.00045 -13.48252,6.00045" />
 		</layer>
 	</glyph>
 </collection>
@@ -453,7 +453,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="39" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B 32.05548,30.95238 M -15.92452,30.95238 M -15.92452,20.95238 M 27.10548,20.95238 M 27.10548,15.95238 M -15.92452,15.95238 M -15.92452,-0.04762 M -20.94452,-0.04762 M -20.94452,35.95238 M -15.94452,35.95238 T M -15.92452,35.95238 T M 32.05548,35.95238 C 32.05548,34.28571 32.05548,32.61905 32.05548,30.95238" />
+			<path data="B 32.05548,30.95238 M -15.62402,30.95238 M -15.62402,30.95238 M -15.92452,30.95238 M -15.92452,20.95238 M 27.10548,20.95238 M 27.10548,15.95238 M -15.92452,15.95238 M -15.92452,-0.04762 M -20.94452,-0.04762 M -20.94452,35.95238 M -15.94452,35.95238 T M -15.92452,35.95238 T M 32.05548,35.95238 C 32.05548,34.28571 32.05548,32.61905 32.05548,30.95238" />
 		</layer>
 	</glyph>
 </collection>
@@ -480,7 +480,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="-9" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B -15.98679,35.97927 M -15.98679,-0.02073 M -20.98679,-0.02073 M -20.98679,35.97927 C -19.32013,35.97927 -17.65346,35.97927 -15.98679,35.97927" />
+			<path data="B -15.98679,35.97927 M -15.98679,-0.02073 M -20.98679,-0.02073 M -20.98679,30.87927 M -20.98679,35.97927 C -19.32013,35.97927 -17.65346,35.97927 -15.98679,35.97927" />
 		</layer>
 	</glyph>
 </collection>
@@ -516,7 +516,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="39" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B 27.04762,35.90476 M 32.04762,35.90476 M 32.04762,-0.09524 M 27.04762,-0.09524 M 27.04762,29.27476 M 6.04762,10.27476 M -15.95238,29.27476 M -15.95238,-0.09524 M -20.95238,-0.09524 M -20.95238,35.90476 M -15.95238,35.90476 M 6.04762,16.90476 C 13.04762,23.2381 20.04762,29.57143 27.04762,35.90476" />
+			<path data="B 27.04762,35.96024 M 32.04762,35.96024 M 32.04762,-0.03976 M 27.04762,-0.03976 M 27.04762,29.33024 M 6.04762,10.33024 M -15.95238,29.33024 M -15.95238,-0.03976 M -20.95238,-0.03976 M -20.95238,35.96024 M -15.95238,35.96024 M 6.04762,16.96024 C 13.04762,23.29358 20.04762,29.62691 27.04762,35.96024" />
 		</layer>
 	</glyph>
 </collection>
@@ -582,7 +582,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="39" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B 32.05548,36 M 32.05548,31 M 9.08548,31 M 9.08548,0 M 4.05548,0 M 4.05548,31 M -20.94452,31 M -20.94452,36 M 4.05548,36 T M 9.08548,36 T C 16.74215,36 24.39882,36 32.05548,36" />
+			<path data="B 32.05548,35.94452 M 32.05548,30.94452 M 9.08548,30.94452 M 9.08548,-0.05548 M 4.05548,-0.05548 M 4.05548,30.94452 M -20.94452,30.94452 M -20.94452,35.94452 M 4.05548,35.94452 T M 9.08548,35.94452 T C 16.74215,35.94452 24.39882,35.94452 32.05548,35.94452" />
 		</layer>
 	</glyph>
 </collection>
@@ -627,7 +627,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="39" zero_width="false">
 		<layer name="Layer" visible="true">
-			<path data="B 32.06363,35.97454 M 32.06363,29.75527 M 8.71713,14.75524 M 8.71713,-0.02546 M 8.38913,-0.02546 T M 3.74803,-0.02546 T M 3.42013,-0.02546 M 3.42013,14.75524 M -20.93637,29.75527 M -20.93637,35.97454 M 6.06363,19.00114 C 14.7303,24.65894 23.39697,30.31674 32.06363,35.97454" />
+			<path data="B 32.06363,35.97454 M 32.06363,29.75527 M 8.71713,14.75524 M 8.71713,-0.02546 M 8.38913,-0.02546 T M 3.74803,-0.02546 T M 3.42013,-0.02546 M 3.42013,14.75524 M -20.93637,29.75527 M -20.93637,35.97454 M -6.4175,26.84733 M 6.06363,19.00114 C 14.7303,24.65894 23.39697,30.31674 32.06363,35.97454" />
 		</layer>
 	</glyph>
 </collection>
@@ -1022,6 +1022,44 @@
 	<glyph id="0" left="-28" right="39" zero_width="false">
 		<layer name="Layer" visible="true">
 			<path data="B 32.05472,15.91139 M -20.94528,15.91139 M -20.94528,20.91139 M 32.05472,20.91139 C 32.05472,19.24472 32.05472,17.57806 32.05472,15.91139" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2018" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-6.97358" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15.98689,35.94717 M -13.98689,27.94717 M -18.98689,27.94717 M -20.98689,35.94717 C -19.32023,35.94717 -17.65356,35.94717 -15.98689,35.94717" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2019" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="-6.99551" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -13.98669,35.98958 M -15.98669,27.98958 M -20.98669,27.98958 M -18.98669,35.98958 C -17.32003,35.98958 -15.65336,35.98958 -13.98669,35.98958" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201c" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="0.00449" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -15.95965,35.98437 M -13.95965,27.98437 M -18.95965,27.98437 M -20.95965,35.98437 C -19.29298,35.98437 -17.62632,35.98437 -15.95965,35.98437" />
+			<path data="B -8.95965,35.98437 M -6.95965,27.98437 M -11.95965,27.98437 M -13.95965,35.98437 C -12.29298,35.98437 -10.62632,35.98437 -8.95965,35.98437" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+201d" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="0" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -7.0001,35.94717 M -9.0001,27.94717 M -14.0001,27.94717 M -12.0001,35.94717 C -10.33343,35.94717 -8.66677,35.94717 -7.0001,35.94717" />
+			<path data="B -14.0001,35.94717 M -16.0001,27.94717 M -21.0001,27.94717 M -19.0001,35.94717 C -17.33343,35.94717 -15.66677,35.94717 -14.0001,35.94717" />
 		</layer>
 	</glyph>
 </collection>
