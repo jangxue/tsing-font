@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.0](https://github.com/iepn/tsing-font/compare/v1.0.0...v1.1.0) (2024-05-10)
+
+
+### Features
+
+* add info website ([742f438](https://github.com/iepn/tsing-font/commit/742f4387c0791a79f9a3e483c0ae1c53e42fb4c8))
+* add new website info "Security team is cool!" ([e0a5bde](https://github.com/iepn/tsing-font/commit/e0a5bde8e8f7e0dd321e2dd52b74e748ee3cf08b))
+* new add U+221e [#6](https://github.com/iepn/tsing-font/issues/6) and fix [#7](https://github.com/iepn/tsing-font/issues/7) ([e4fc8d9](https://github.com/iepn/tsing-font/commit/e4fc8d9742689573c6d15860ce578d60bc0ff981))
+
+
+### Bug Fixes
+
+* [#5](https://github.com/iepn/tsing-font/issues/5) and [#3](https://github.com/iepn/tsing-font/issues/3) linellae layout error ([0960942](https://github.com/iepn/tsing-font/commit/0960942f644be43353c4dd4c3f3385433299901f))
+* [#8](https://github.com/iepn/tsing-font/issues/8) add U+201d, U+201c,U+2019,U+2018 font group ([eefb404](https://github.com/iepn/tsing-font/commit/eefb404ead990d510754032e910e0b8908b80a16))
+* firefox and safari font show error ([df112db](https://github.com/iepn/tsing-font/commit/df112db1de4b4bfe7e654874faa1e9bd0be3162f))
+
+
+### Docs
+
+* add issue template and thank info ([86de439](https://github.com/iepn/tsing-font/commit/86de4394e8e0b554dac66807c6a7ed349892b473))
+
 ## 1.0.0 (2024-05-05)
 
 
