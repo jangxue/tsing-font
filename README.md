@@ -1,5 +1,6 @@
 
-![Slide 16_9 - 7](https://github.com/iepn/tsing-font/assets/57232813/684e4755-40d3-4117-a85a-33c112c72fa9)
+![207](https://github.com/iepn/tsing-font/assets/57232813/4148d470-8adb-4c3d-9ee1-63e618acab0a)
+
 
 This is a relatively monospaced font composed of equal-sized squares. The letters are evolved from 9x9 squares, with a space of 91x61; the numbers are 11x11, with a space of 61x61, creating a fascinating visual experience for the font.
 
@@ -15,7 +16,8 @@ We guarantee to reply to you in a timely manner and update our progress on this 
 
 ### Contributing
 
-![Slide 16_9 - 10](https://github.com/iepn/tsing-font/assets/57232813/e5d7b31d-bf3f-4359-a411-f0c85a46a825)
+![208](https://github.com/iepn/tsing-font/assets/57232813/70a606f7-abc4-41e4-8c2a-18684bcc8107)
+
 
 If you love this project or the design style, you can open our [Figma file](https://www.figma.com/community/file/1369266571672278927/tsing-font) using Figma, where you can find the materials needed to build various fonts (since letters are made of several elements).
 
