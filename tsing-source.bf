@@ -998,6 +998,17 @@
 	</glyph>
 </collection>
 
+<collection unicode="U+dc" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="38.95264" zero_width="false">
+		<layer name="Layer" visible="true">
+			<path data="B -13.92752,45.93747 M -8.92752,45.93747 M -8.92752,40.93747 M -13.92752,40.93747 M -13.92752,45.93747" />
+			<path data="B 20.07248,45.93747 M 25.07248,45.93747 M 25.07248,40.93747 M 20.07248,40.93747 M 20.07248,45.93747" />
+			<path data="B 27.07248,35.93747 M 32.07248,35.93747 M 32.07248,-0.06253 M 28.07248,-0.06253 T M 27.07248,-0.06253 T M -15.92752,-0.06253 T M -20.92752,-0.06253 M -20.92752,35.93747 M -15.92752,35.93747 M -15.92752,4.93747 M 27.07248,4.93747 C 27.07248,15.2708 27.07248,25.60414 27.07248,35.93747" />
+		</layer>
+	</glyph>
+</collection>
+
 <collection unicode="U+f7" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="22" zero_width="false">
